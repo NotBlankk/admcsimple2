@@ -1,1 +1,1 @@
-ADMC second domain web page
+ADMC Repository for 2nd Domain
